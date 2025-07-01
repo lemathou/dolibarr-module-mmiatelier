@@ -26,7 +26,6 @@ ModuleMMIAtelierDesc = MMIAtelier description
 # Admin page
 #
 MMIAtelierSetup = MMIAtelier setup
-Settings = Settings
 MMIAtelierSetupPage = MMIAtelier setup page
 MMIATELIER_MYPARAM1 = My param 1
 MMIATELIER_MYPARAM1Tooltip = My param 1 tooltip
@@ -37,7 +36,6 @@ MMIATELIER_MYPARAM2Tooltip=My param 2 tooltip
 #
 # About page
 #
-About = About
 MMIAtelierAbout = About MMIAtelier
 MMIAtelierAboutPage = MMIAtelier about page
 
